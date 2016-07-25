@@ -1,1 +1,1 @@
-# test123tffgjfjf
+<?php phpinfo();?>
